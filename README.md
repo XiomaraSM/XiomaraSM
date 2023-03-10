@@ -28,12 +28,10 @@
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&link=https://github.com/tu_usuario_de_github/" alt="GitHub">
   </a>
   <a href="https://linktr.ee/mara_hekapoo" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu_usuario_de_linkedin/" alt="linktree">
-  <img src="https://img.shields.io/badge/-World-green?style=flat-square&logo=Earth&logoColor=white" alt="World">
+  <img src="https://img.shields.io/badge/-World-green?style=flat-square&logo=Earth&logoColor=white" alt="Redes Sociales">
 </a>
   <a href="https://xiomara-portafolio-web.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu_usuario_de_linkedin/" alt="Portafolio Web">
-  <img src="https://img.shields.io/badge/-Folders-yellow?style=flat-square&logo=Folder&logoColor=white" alt="Folders">
+  <img src="https://img.shields.io/badge/-Folders-yellow?style=flat-square&logo=Folder&logoColor=white" alt="Prtafolio Web">
 </a> 
 </p>
 
