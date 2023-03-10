@@ -6,7 +6,7 @@
 
   <p>I am a FullStack Development apprentice passionate about technology and sports. I am currently focused on learning new skills, building exciting projects, etc.</p>
 
-  <h2>Here are some ideas to get you started:</h2>
+  <h2>Here a little about me</h2>
   
   <ul>
     <li>🔭 I’m currently working on personal projects to keep practicing and improving my HTML, CSS and JavaScript skills.</li>
