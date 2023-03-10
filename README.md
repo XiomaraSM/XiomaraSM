@@ -24,19 +24,17 @@
  <a href="https://www.linkedin.com/in/marahekapoo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu_usuario_de_linkedin/" alt="LinkedIn">
   </a>
-  <a href="https://www.linkedin.com/in/marahekapoo/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu_usuario_de_linkedin/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-World-green?style=flat-square&logo=Earth&logoColor=white" alt="World">
-</a>
-
   <a href="https://github.com/XiomaraSM" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&link=https://github.com/tu_usuario_de_github/" alt="GitHub">
   </a>
-  <a href="https://linktr.ee/mara_hekapoo">
-  </a> 
-  <a href=" https://xiomara-portafolio-web.netlify.app/">
-  </a> 
- 
+  <a href="https://linktr.ee/mara_hekapoo" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu_usuario_de_linkedin/" alt="linktree">
+  <img src="https://img.shields.io/badge/-World-green?style=flat-square&logo=Earth&logoColor=white" alt="World">
+</a>
+  <a href="https://xiomara-portafolio-web.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu_usuario_de_linkedin/" alt="Portafolio Web">
+  <img src="https://img.shields.io/badge/-Folders-yellow?style=flat-square&logo=Folder&logoColor=white" alt="Folders">
+</a> 
 </p>
 
   <p>Thanks for visiting my GitHub profile! You can contact me at any time.</p>
