@@ -28,11 +28,10 @@
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&link=https://github.com/tu_usuario_de_github/" alt="GitHub">
   </a>
   <a href="https://linktr.ee/mara_hekapoo">
-    <img src="https://cdn.jsdelivr.net/npm/social-icons@5.11.2/icons/linktree.svg"
-         alt="Linktree"
-         height="40"
-         style="vertical-align:top; margin:4px">
   </a> 
+  <a href=" https://xiomara-portafolio-web.netlify.app/">
+  </a> 
+ 
 </p>
 
   <p>Thanks for visiting my GitHub profile! You can contact me at any time.</p>
